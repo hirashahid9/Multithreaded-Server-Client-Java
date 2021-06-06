@@ -1,6 +1,6 @@
 # Multithreaded-Server-Client-Java
 
-A client-server application for login and registration. It is similar to login and sign up in all the applications that we use.The credentials are verified from a database and the appropriate result shows up on the screen.
+A client-server application for login and registration. It is similar to login and sign up in all the applications that we use.The credentials are verified from a database and the appropriate result shows up on the screen
 
 # Execution
 
