@@ -18,4 +18,15 @@ Now you can run the application.
 
 # Running Demo
 
+## Login ## 
+
+![image](https://user-images.githubusercontent.com/55246052/120922530-312f6e80-c6e3-11eb-9c80-0ba56bfdc032.png)
+
+## Registration ##
+
+![register](https://user-images.githubusercontent.com/55246052/120922575-68058480-c6e3-11eb-8c7b-59b3ceef3b85.JPG)
+
+## Change username ##
+
+![ch](https://user-images.githubusercontent.com/55246052/120922581-718eec80-c6e3-11eb-8c16-0589942b15fa.JPG)
 
